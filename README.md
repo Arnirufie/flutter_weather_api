@@ -22,6 +22,10 @@ Project ini dibuat untuk memenuhi tugas integrasi **Flutter dengan API eksternal
 - **Open-Meteo API** (cuaca)  
 - **Nominatim OpenStreetMap API** (lokasi)
 
+## 📸 Hasil Screenshot
+Hasil tampilan aplikasi bisa dilihat pada link berikut:  
+👉 [Klik di sini untuk melihat hasil](https://drive.google.com/drive/folders/1uvVyElIYMMEtJFilkVAFByHEO0zNN9E1?usp=sharing)
+
   ## 👤 Identitas
 - **Nama**: Arni Rufiyanti  
 - **Kelas**: XII RPL1

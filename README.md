@@ -1,16 +1,28 @@
-# cuaca_app
+# flutter_weather_api
 
-A new Flutter project.
+Aplikasi Flutter sederhana untuk menampilkan **informasi cuaca** berdasarkan lokasi.  
+Project ini dibuat untuk memenuhi tugas integrasi **Flutter dengan API eksternal**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Fitur
+- Menampilkan **data cuaca per jam** untuk hari ini.  
+- Data cuaca diambil dari **Open-Meteo API**:  
+  - Suhu udara (°C)  
+  - Kelembapan (%)  
+  - Kecepatan angin (m/s)  
+- Menampilkan **nama lokasi** berdasarkan koordinat menggunakan **OpenStreetMap Nominatim API**.  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- **Flutter** 
+- **Dart**  
+- **http package** untuk request API  
+- **Open-Meteo API** (cuaca)  
+- **Nominatim OpenStreetMap API** (lokasi)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  ## 👤 Identitas
+- **Nama**: Arni Rufiyanti  
+- **Kelas**: XII RPL1
+- **Project**: flutter_weather_api
